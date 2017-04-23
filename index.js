@@ -1,11 +1,16 @@
-let Shape = require('./shapesarea.js');
-class Square extends Figura {              //Square hereda de clase Shape
-    constructor(options) {
-      super(options)
-    }
-    area() {
-      return  Math.pow(this.width,2)      //Retorna el área del cuadrado
-    }
-}
+'use strict'
 
-module.exports = Square;
+var figura = require('ull-shape-aitor-nestor-omar')
+var shape = figura.Shape
+
+class Square extends Figura {
+  constructor(options) {
+    Shapes.Square = Square;
+    super("Square",options)
+    this.width = options.width;
+  }
+  
+  getArea() {
+    return Math.pow(this.width,2);
+  }
+}
