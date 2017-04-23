@@ -1,0 +1,22 @@
+{
+  "name": "creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-square",
+  "version": "1.0.0",
+  "description": "Repositorio para el módulo npm de la figura geométrica square (aitor-nestor-omar)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozzrocker95/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-square.git"
+  },
+  "author": "Omar Mendo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozzrocker95/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-square/issues"
+  },
+  "homepage": "https://github.com/ozzrocker95/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-square#readme",
+  "dependencies": {
+    "creacion-de-paquetes-npm-aitornestoromar-rectangle": "^1.0.0"
+  }
+}
