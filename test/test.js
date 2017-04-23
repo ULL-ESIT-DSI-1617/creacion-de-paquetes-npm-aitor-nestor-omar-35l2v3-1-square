@@ -1,9 +1,9 @@
 var Square = require("../lib/square.js");
 
-describe("getArea Triangle", function() {
+describe("getArea Square", function() {
   it("must compute the square area correctly", function() {
     let a = new Square({ width: 100 });
     var result = a.getArea();
-     result.should.equal(5000);
+     result.should.equal(10000);
   })
 });
