@@ -4,7 +4,9 @@
   "description": "Repositorio para el módulo npm de la figura geométrica square (aitor-nestor-omar)",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --require should"
+    "test": "./node_modules/mocha/bin/mocha --require should",
+    "doc": "documentation build ./lib/square.js -f html -o docs"
+    
   },
   "repository": {
     "type": "git",
