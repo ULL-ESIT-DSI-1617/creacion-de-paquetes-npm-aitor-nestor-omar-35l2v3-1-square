@@ -6,7 +6,6 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --require should",
     "doc": "documentation build ./lib/square.js -f html -o docs"
-    
   },
   "repository": {
     "type": "git",
@@ -19,11 +18,10 @@
   },
   "homepage": "https://github.com/ozzrocker95/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-square#readme",
   "dependencies": {
-    "creacion-de-paquetes-npm-aitornestoromar-rectangle": "^1.0.0",
+    "@aitor-nestor-omar/ull-shape": "^1.0.2",
     "gulp-shell": "^0.6.3",
     "mocha": "^3.2.0",
-    "should": "^11.2.1",
-    "ull-shape-aitor-nestor-omar-35l2v3-1": "^1.0.3"
+    "should": "^11.2.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
