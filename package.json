@@ -1,6 +1,6 @@
 {
   "name": "@aitor-nestor-omar/ull-shape-square",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Repositorio para el módulo npm de la figura geométrica square (aitor-nestor-omar)",
   "main": "index.js",
   "scripts": {
