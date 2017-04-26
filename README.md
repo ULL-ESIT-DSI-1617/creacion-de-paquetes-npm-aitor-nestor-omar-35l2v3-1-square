@@ -46,6 +46,8 @@ $ npm run doc
 
 ![documentation.js en GH Pages](http://i.imgur.com/NaRweaQ.png)
 
+* Enlace a la documentación en [GH Pages](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-square/)
+
 ### Autores de la práctica
 * [Aitor Bernal Falcón](https://chinegua.github.io/)
 * [Néstor García Moreno](https://nestor-gm.github.io/)
